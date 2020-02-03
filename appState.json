@@ -33,12 +33,7 @@
           "memory": 128,
           "layers": []
         },
-        "triggers": [
-          {
-            "resourceName": "apigusEast1TestAPIMyLambdaput",
-            "config": {}
-          }
-        ]
+        "triggers": []
       }
     },
     "rootNode": "986b6d0b-f6b4-4b9e-b715-a8975b8faacc",
@@ -154,7 +149,7 @@
     "platform": "AWS",
     "language": "python",
     "platformRegions": {},
-    "lastSave": 1580719731906
+    "lastSave": 1580720029878
   },
   "VCS_STATE": {
     "provider": "GitHub",
